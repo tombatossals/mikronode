@@ -1,6 +1,6 @@
 api=require('../lib/index.js');
 
-c1=new api('192.168.0.1','admin','');
+c1=new api('192.168.0.1','admin','', { tls: true });
 c1.closeOnDone(true);
 c1.connect(function(c) {
     var o=this.openChannel();
