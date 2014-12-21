@@ -4,7 +4,7 @@
   "version": "0.3.1",
   "author": "Brandon Myers <trakkasure@gmail.com>",
   "contributors": [ 
-    { "name": "Brandon Myers", "email": "trakkasure@gmail.com" }
+    { "name": "Brandon Myers", "email": "trakkasure@gmail.com" },
     { "name": "David Rubert", "email": "david.rubert@gmail.com" }
   ],
   "keywords": ["mikrotik", "socket", "api"],
