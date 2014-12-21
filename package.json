@@ -5,9 +5,10 @@
   "author": "Brandon Myers <trakkasure@gmail.com>",
   "contributors": [ 
     { "name": "Brandon Myers", "email": "trakkasure@gmail.com" }
+    { "name": "David Rubert", "email": "david.rubert@gmail.com" }
   ],
   "keywords": ["mikrotik", "socket", "api"],
-  "repository": "git://github.com/trakkasure/mikronode",
+  "repository": "git://github.com/tombatossals/mikronode-tls",
   "bugs" : "https://github.com/Trakkasure/mikronode/issues",
   "main": "lib/index",
   "engines": { "node": ">= 0.3.8" }
